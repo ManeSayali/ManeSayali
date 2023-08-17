@@ -1,5 +1,5 @@
 ### Hi there!👋 Welcome to my GitHub profile. Here's a little bit about me and what I do. 
-## I'am Sayali Mane🧑‍🎓 .
+## I'm Sayali Mane🧑‍🎓 .
 Passionate about Data Science | Aspiring Data Analyst | Lifelong Learner
 
 🌱 I recently graduated as a fresher with a degree in Enginnering and have a strong passion 
@@ -53,6 +53,29 @@ In the coming months, I plan to:
 Land my first role as a data analyst.
 Contribute to more open-source projects in the data science community.
 Expand my skill set to include Python 🐍, machine learning, and sql.
+
+###  Languages and Tools:
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg) ![Java](https://img.shields.io/badge/Java-8-orange.svg)![MySQL](https://img.shields.io/badge/mysql-latest-blue.svg)![MySQL](https://img.shields.io/badge/mysql-blue.svg)
+![HTML](https://img.shields.io/badge/html-orange.svg)
+![CSS](https://img.shields.io/badge/css-blueviolet.svg)
+![Pandas](https://img.shields.io/badge/pandas-brightgreen.svg)
+![NumPy](https://img.shields.io/badge/numpy-blue.svg)
+![Matplotlib](https://img.shields.io/badge/matplotlib-orange.svg)
+![Seaborn](https://img.shields.io/badge/seaborn-yellowgreen.svg)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange.svg)
+![Keras](https://img.shields.io/badge/keras-red.svg)
+![TensorFlow](https://img.shields.io/badge/tensorflow-brightgreen.svg)
+![MongoDB](https://img.shields.io/badge/mongodb-success.svg)
+![Cassandra](https://img.shields.io/badge/cassandra-green.svg)
+![Hadoop](https://img.shields.io/badge/hadoop-important.svg)
+![Spark](https://img.shields.io/badge/spark-red.svg)
+![Hive](https://img.shields.io/badge/hive-purple.svg)
+![HBase](https://img.shields.io/badge/hbase-critical.svg)
+![Kafka](https://img.shields.io/badge/kafka-red.svg)
+![Power BI](https://img.shields.io/badge/powerbi-blue.svg)
+![Tableau](https://img.shields.io/badge/tableau-brightgreen.svg)
+![MS Excel](https://img.shields.io/badge/msexcel-green.svg)
+
 
 
 Thanks for visiting my GitHub profile! Let's connect and collaborate on all things data.
