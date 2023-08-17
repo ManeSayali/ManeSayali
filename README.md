@@ -45,6 +45,7 @@ Feel free to explore my repositories for more exciting projects!
 
 ### 📚 I'm Currently Learning
  1)Natural Language Processing with Classification and Vector Spaces
+ 
  2)Data Analysis with R Programming
 
 ### 🎯 My Goals
