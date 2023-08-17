@@ -53,6 +53,8 @@ In the coming months, I plan to:
 Land my first role as a data analyst.
 Contribute to more open-source projects in the data science community.
 Expand my skill set to include Python 🐍, machine learning, and sql.
+
+
 Thanks for visiting my GitHub profile! Let's connect and collaborate on all things data.
 .
 <!--
