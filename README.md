@@ -1,19 +1,24 @@
 ### Hi there!👋 Welcome to my GitHub profile. Here's a little bit about me and what I do. 
-### I'am Sayali Mane🧑‍🎓 .
+## I'am Sayali Mane🧑‍🎓 .
 Passionate about Data Science | Aspiring Data Analyst | Lifelong Learner
 
 🌱 I recently graduated as a fresher with a degree in Enginnering and have a strong passion for all things data! My goal is to leverage data to gain insights and make informed decisions.
+Data is the raw material of the 21st century. It can be used to solve problems, make decisions, and create new products and services.
 
-🔭 I’m currently working on building my skills in data analysis, machine learning, and data visualization.
+I find data fascinating because it is a way to understand the world around us. Data can be used to answer questions, make predictions, and solve problems. It can also be used to create new products and services.
+
+
+🔭 I’m currently working on building my skills in data analysis, machine learning,Big data tool and data visualization.
 
 🌟 Here's a glimpse of what I'm up to:
 
-💼 Professional Highlights
-Completed [Relevant Online Course/Certification] to solidify my foundation in data science.
-Developed [Project Name] where I [briefly describe the project and its impact].
-Collaborated on [Project Name] with [Name/Organization] to [briefly describe the project and your role].
-Contributed to [Open Source Project Name] by [briefly describe your contribution].
-🚀 What I'm Excited About
+#### 💼 Professional Highlights
+
+Completed CDAC (Centre for Development of Advanced Computing,Bengaluru) to solidify my foundation in data science.
+
+Contributed to Omdena by working on Omdena-Milan-C19Crime.
+
+#### 🚀 What I'm Excited About
 Exploring real-world datasets to uncover hidden patterns and insights.
 Improving my skills in data preprocessing, feature engineering, and model evaluation.
 Sharing my journey and learning through blog posts and tutorials.
