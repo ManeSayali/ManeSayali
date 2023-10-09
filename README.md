@@ -26,9 +26,9 @@ Networking with fellow data enthusiasts and professionals.
 
 ### 📫 Let's Connect!
 
-LinkedIn: [www.linkedin.com/in/mane-sayali-d0666]
+LinkedIn: [https://www.linkedin.com/in/sayali010/]
 
-Email: [sayalimane666@gmail.com]
+Email: [sayalimane550@gmail.com]
 
 
 ### 🌐 Check Out My Work
